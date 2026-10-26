@@ -54,7 +54,7 @@ This site doesn't need a server or an API key.
 - How to add fonts from Google Fonts
 - How to write friendly page copy that fits a brand
 
-VIEW APP HERE: https://maine-lobster.onrender.com/
+VIEW APP HERE: https://maine-lobster.onrender.com
 
 ## Author
 
